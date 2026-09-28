@@ -1,6 +1,14 @@
-<img src="https://raw.githubusercontent.com/Smart-rwl/Smart-Image-Distribution-Tool/main/assets/smart-image-distribution-banner.png"
-     alt="Smart Image Distribution Tool"
-     width="100%">
+<div align="center">
+
+<img src="assets/smart-image-distribution-banner.png" alt="Smart Image Distribution Tool" width="100%">
+
+<br>
+
+**SmartRWL · Smart Seller Toolsuite**
+
+[GitHub](https://github.com/Smart-rwl)
+
+</div>
 
 
 # Smart Image Distribution Tool
