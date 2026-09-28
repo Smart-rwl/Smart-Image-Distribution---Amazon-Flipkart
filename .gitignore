@@ -1,0 +1,19 @@
+# Local tool state (per machine)
+Smart_Image_Distribution_LastConfig.json
+Smart_Image_Distribution_State.json
+
+# Generated output
+Reports/
+_Backup/
+
+# Test data / images
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
