@@ -1,3 +1,8 @@
+<img src="https://raw.githubusercontent.com/Smart-rwl/Smart-Image-Distribution-Tool/main/assets/smart-image-distribution-banner.png"
+     alt="Smart Image Distribution Tool"
+     width="100%">
+
+
 # Smart Image Distribution Tool
 
 A Windows PowerShell tool that renames and sorts product images into **Amazon** and **Flipkart** upload-ready folders from one mapping CSV. It is safe to re-run, can resume after a crash, and verifies every file it writes.
